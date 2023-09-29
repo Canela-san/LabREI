@@ -1,0 +1,6 @@
+[submodule "DranetzAPI"]
+	path = DranetzAPI
+	url = git@github.com:Canela-san/DranetzAPI.git
+[submodule "PanelCC"]
+	path = PanelCC
+	url = git@github.com:Canela-san/PanelCC.git

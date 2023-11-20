@@ -4,3 +4,6 @@
 [submodule "PanelCC"]
 	path = PanelCC
 	url = https://github.com/Canela-san/PanelCC.git
+[submodule "Buck-Conv-Arduino"]
+	path = Buck-Conv-Arduino
+	url = https://github.com/Canela-san/Buck-Conv-Arduino.git
